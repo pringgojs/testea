@@ -1,0 +1,27 @@
+{
+  "name": "testea",
+  "version": "1.5.1",
+  "description": "\"staterkit WA web injection\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pringgojs/testea.git"
+  },
+  "keywords": [
+    "testea",
+    "waweb",
+    "api"
+  ],
+  "dependencies": {
+    "forwarder-whatsapp-web": "^1.1.5"
+  },
+  "author": "Pringgo Juni Saputro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pringgojs/testea/issues"
+  },
+  "homepage": "https://github.com/pringgojs/testea#readme"
+}
